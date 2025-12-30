@@ -1,6 +1,8 @@
 # American-Car-Information-Book
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Backend_Development-C%2B%2B-20A3FA"> <img alt="Static Badge" src="https://img.shields.io/badge/Database_Type-NoSQL-F54927"> <img alt="Static Badge" src="https://img.shields.io/badge/NoSQL-MongoDB-0C7A0C">
+<img alt="Static Badge" src="https://img.shields.io/badge/PERSONAL_PROJECT-AA49EB?style=for-the-badge&logo=github">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Backend_Development-C%2B%2B-20A3FA"> <img alt="Static Badge" src="https://img.shields.io/badge/Database_Type-NoSQL-F54927"> <img alt="Static Badge" src="https://img.shields.io/badge/NoSQL-MongoDB-0C7A0C"> <img alt="Static Badge" src="https://img.shields.io/badge/Full%20Stack%20Development-43E86C?style=flat-square"> 
 
 With using C++ programming, I am using a CRUD method to modify the list in the "cars.csv" file with using MongoDB as the main database for this project and C++. The "cars.csv" file is added to Mongo Compass to create a database called "carList", one collection which is "cars", and then a document type will be a CSV file.<br><br>
 
