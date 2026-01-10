@@ -1,0 +1,9 @@
+carMake,carModel,carYear,carType,horsepower,acceleration,gasAmount,electric,topSpeed,drivetrain
+Ford,F-150,2025,Truck,400,6.5,22,FALSE,120,RWD
+Ford,F-150,2015,Truck,282,6.4,23,FALSE,110,RWD
+Chevrolet,Z06,2019,Car,650,2.95,17,FALSE,195,RWD
+Chevrolet,ZR1,2019,Car,755,2.85,18.5,FALSE,212,RWD
+Tesla,Model-3,2024,Car,271,5.6,0,TRUE,163,RWD
+Tesla,Model-S,2024,Car,670,3.1,0,TRUE,130,AWD
+Tesla,Model-X,2024,SUV,670,3.7,0,TRUE,155,AWD
+Dodge,Charger Hellcat,2023,Car,717,3.9,18.5,FALSE,196,RWD
